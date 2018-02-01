@@ -249,6 +249,8 @@
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Author.cs" />
     <Compile Include="Models\Book.cs" />
+    <Compile Include="Models\BookDetailDto.cs" />
+    <Compile Include="Models\BookDto.cs" />
     <Compile Include="Models\BookServiceContext.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
