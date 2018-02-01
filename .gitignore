@@ -1,0 +1,6 @@
+## C# exclude
+packages/
+bin/
+obj/
+
+.vs/
