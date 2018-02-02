@@ -4,3 +4,5 @@ bin/
 obj/
 
 .vs/
+
+BookService/Scripts/_references.js
